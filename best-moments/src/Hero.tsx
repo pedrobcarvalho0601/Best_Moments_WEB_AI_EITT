@@ -9,10 +9,10 @@ interface HeroProps {
 }
 
 const heroImages = [
-  { src: "https://picsum.photos/seed/family_generations/1920/1080", alt: "Família de várias gerações a sorrir, celebrando a união" },
-  { src: "https://picsum.photos/seed/cozy_nursing_home/1920/1080", alt: "Ambiente acolhedor de um lar de idosos com residentes a conversar" },
-  { src: "https://picsum.photos/seed/grandparent_and_child/1920/1080", alt: "Avô a ler uma história para a sua neta com carinho" },
-  { src: "https://picsum.photos/seed/seniors_with_kids/1920/1080", alt: "Idosos a brincar com crianças num jardim, partilhando alegria" },
+  { src: "https://cdn.pixabay.com/photo/2018/04/29/20/56/double-rider-tricycle-3361097_1280.jpg", alt: "idosos a andar de triciclo" },
+  { src: "https://images.pexels.com/photos/26575076/pexels-photo-26575076.jpeg?_gl=1*d4hmce*_ga*MTg3NDEyNjU0LjE3NjM5MzUzNTM.*_ga_8JE65Q40S6*czE3NjM5MzUzNTIkbzEkZzEkdDE3NjM5MzU4NjIkajQxJGwwJGgw", alt: "idosos nas cadeiras" },
+  { src: "https://images.pexels.com/photos/20795206/pexels-photo-20795206.jpeg?_gl=1*18omkb7*_ga*MTg3NDEyNjU0LjE3NjM5MzUzNTM.*_ga_8JE65Q40S6*czE3NjM5MzUzNTIkbzEkZzEkdDE3NjM5MzU1NzUkajYwJGwwJGgw", alt: "idosos a passear" },
+  { src: "https://media.istockphoto.com/id/1438937595/pt/foto/senior-couple-on-the-beach.jpg?s=612x612&w=0&k=20&c=1CRiSW6oWNKmLm7UmwXyh6aw9qrzEUL25mBK1CQvfcE=", alt: "Casal olhado para o mar" },
 ];
 
 const Hero: React.FC<HeroProps> = ({ setActiveSection }) => {

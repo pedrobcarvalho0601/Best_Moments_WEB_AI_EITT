@@ -1,7 +1,7 @@
 import React from 'react';
 
 const galleryImages = [
-  { src: "https://picsum.photos/seed/elderly_art_class/500/500", alt: "Idosos numa aula de pintura criativa" },
+  { src: "https://cdn.pixabay.com/photo/2018/04/29/20/56/double-rider-tricycle-3361097_1280.jpg", alt: "Idosos a andarem de biciclleta" },
   { src: "https://picsum.photos/seed/seniors_nature_walk/500/500", alt: "Grupo de idosos a desfrutar de um passeio na natureza" },
   { src: "https://picsum.photos/seed/grandmother_with_grandchild/500/500", alt: "Avó a sorrir com o seu neto" },
   { src: "https://picsum.photos/seed/elderly_couple_garden/500/500", alt: "Casal de idosos a tratar do seu jardim com carinho" },

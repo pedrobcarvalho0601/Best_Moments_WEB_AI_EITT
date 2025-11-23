@@ -26,10 +26,21 @@ const Header: React.FC<HeaderProps> = ({ activeSection, setActiveSection }) => {
 
   return (
     <header className="bg-white/80 backdrop-blur-md shadow-md sticky top-0 z-50">
-      <div className="container mx-auto px-6 py-4 flex justify-between items-center">
-        <button onClick={() => handleNavClick('home')} className="text-2xl font-bold text-sky-700 hover:text-sky-600 transition-colors duration-300">
-          Best Moments
+      <div className="container mx-auto px-6 py-3 flex justify-between items-center">
+        <button 
+          onClick={() => handleNavClick('home')} 
+          className="flex items-center gap-3 group focus:outline-none"
+        >
+          <img 
+            src="/logo.png" 
+            alt="Best Moments Logo" 
+            className="h-12 w-auto object-contain transform group-hover:scale-105 transition-transform duration-300"
+          />
+          <span className="text-2xl font-bold text-sky-700 group-hover:text-sky-600 transition-colors duration-300">
+            Best Moments
+          </span>
         </button>
+
         <nav className="hidden md:flex space-x-8">
           {navLinks.map((link) => (
             <button
