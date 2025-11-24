@@ -16,31 +16,31 @@ interface Partner {
 
 const teamMembers: TeamMember[] = [
   {
-    name: "Sofia Martins",
-    role: "Fundadora & Diretora Geral",
+    name: "Luísa Dias ",
+    role: "Diretor Geral",
     image: "https://picsum.photos/seed/director_woman/300/300",
     description: "Com mais de 20 anos de experiência em gerontologia, a Sofia fundou a Best Moments com a visão de que a vida deve ser celebrada em todas as idades."
   },
   {
-    name: "Dr. André Costa",
+    name: "Pedro Carvalho,",
     role: "Coordenador de Saúde",
     image: "https://picsum.photos/seed/doctor_man/300/300",
     description: "Garante que todas as atividades são seguras e adaptadas. Supervisiona a equipa de enfermagem que acompanha os nossos eventos."
   },
   {
-    name: "Matilde Ferreira",
+    name: "Francisco Santos",
     role: "Gestora de Eventos e Parcerias",
     image: "https://picsum.photos/seed/event_manager/300/300",
     description: "A criativa do grupo. Planeia cada detalhe, desde a escolha do restaurante perfeito até à acessibilidade dos museus."
   },
   {
-    name: "Sr. Carlos Bento",
+    name: "Célio Maquile",
     role: "Chefe de Frota e Transportes",
     image: "https://picsum.photos/seed/driver_senior/300/300",
     description: "Conhece as estradas de Portugal como ninguém. A sua prioridade é o transporte confortável e seguro de todos os passageiros."
   },
   {
-    name: "Enf.ª Beatriz Lima",
+    name: "Pedro Antunes",
     role: "Acompanhamento Geriátrico",
     image: "https://picsum.photos/seed/nurse_young/300/300",
     description: "Sempre presente nas nossas viagens, pronta para prestar auxílio médico e garantir que a medicação e o bem-estar estão em dia."
