@@ -14,7 +14,7 @@ const Contact: React.FC = () => {
                 <strong>Email:</strong> contacto@bestmoments.pt
             </div>
             <div className="text-lg">
-                <strong>Telefone:</strong> +351 123 456 789
+                <strong>Telefone:</strong> +351 962890251
             </div>
         </div>
         <a 
