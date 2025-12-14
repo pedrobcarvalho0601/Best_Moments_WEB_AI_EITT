@@ -17,39 +17,39 @@ interface Partner {
 const teamMembers: TeamMember[] = [
   {
     name: "Luísa Dias ",
-    role: "Diretor Geral",
+    role: " ",
     image: "https://picsum.photos/seed/director_woman/300/300",
-    description: "Com mais de 20 anos de experiência em gerontologia, a Sofia fundou a Best Moments com a visão de que a vida deve ser celebrada em todas as idades."
+    description: " "
   },
   {
-    name: "Pedro Carvalho,",
-    role: "Coordenador de Saúde",
+    name: "Pedro Carvalho",
+    role: " ",
     image: "https://picsum.photos/seed/doctor_man/300/300",
-    description: "Garante que todas as atividades são seguras e adaptadas. Supervisiona a equipa de enfermagem que acompanha os nossos eventos."
+    description: " "
   },
   {
     name: "Francisco Santos",
-    role: "Gestora de Eventos e Parcerias",
+    role: " ",
     image: "https://picsum.photos/seed/event_manager/300/300",
-    description: "A criativa do grupo. Planeia cada detalhe, desde a escolha do restaurante perfeito até à acessibilidade dos museus."
+    description: " "
   },
   {
     name: "Célio Maquile",
-    role: "Chefe de Frota e Transportes",
+    role: " ",
     image: "https://picsum.photos/seed/driver_senior/300/300",
-    description: "Conhece as estradas de Portugal como ninguém. A sua prioridade é o transporte confortável e seguro de todos os passageiros."
+    description: " "
   },
   {
     name: "Pedro Antunes",
-    role: "Acompanhamento Geriátrico",
+    role: " ",
     image: "https://picsum.photos/seed/nurse_young/300/300",
-    description: "Sempre presente nas nossas viagens, pronta para prestar auxílio médico e garantir que a medicação e o bem-estar estão em dia."
+    description: "« "
   },
   {
-    name: "João Pedro",
-    role: "Animador Sociocultural",
+    name: "Anil Pilale",
+    role: " ",
     image: "https://picsum.photos/seed/animator_guy/300/300",
-    description: "Responsável pela música, pelos jogos e por garantir que ninguém fica de fora da diversão. A alma da festa!"
+    description: " "
   }
 ];
 
