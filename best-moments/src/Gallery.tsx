@@ -2,13 +2,13 @@ import React from 'react';
 
 const galleryImages = [
   { src: "https://cdn.pixabay.com/photo/2018/04/29/20/56/double-rider-tricycle-3361097_1280.jpg", alt: "Idosos a andarem de biciclleta" },
- /* { src: "https://picsum.photos/seed/seniors_nature_walk/500/500", alt: "Grupo de idosos a desfrutar de um passeio na natureza" },
-  { src: "https://picsum.photos/seed/grandmother_with_grandchild/500/500", alt: "Avó a sorrir com o seu neto" },
-  { src: "https://picsum.photos/seed/elderly_couple_garden/500/500", alt: "Casal de idosos a tratar do seu jardim com carinho" },
-  { src: "https://picsum.photos/seed/seniors_birthday_party/500/500", alt: "Grupo de idosos a celebrar um aniversário com alegria" },
-  { src: "https://picsum.photos/seed/old_couple_ocean_view/500/500", alt: "Casal de idosos a contemplar o mar" },
-  { src: "https://picsum.photos/seed/elderly_man_guitar/500/500", alt: "Idoso a tocar viola para um grupo de amigos atentos" },
-  { src: "https://picsum.photos/seed/senior_friends_trip/500/500", alt: "Foto de grupo de amigos idosos felizes durante uma excursão" },  */
+  { src: "https://almadaonline.pt/wp-content/uploads/2023/10/idoso.jpg" },
+  { src: "https://www.noticiasdecoimbra.pt/wp-content/uploads/2020/01/IDOSO.jpg" },
+  { src: "https://images.rr.pt/b18217f3adefaultlarge_1024.png" },
+  { src: "https://bordalo.observador.pt/v2/q:60/rs:fill:980/c:3000:1684:nowe:0:316/plain/https://s3.observador.pt/wp-content/uploads/2022/09/19192159/7o0b6473.jpeg" },
+  { src: "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2012/06/e7b3c2018261783aa0e4991d98fbf263-83767336r-32945584-data.jpg?ver=9a73193e" },
+  { src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQByyl-H369hmaMyKeFj5yyzRsdk1bXAAT39A&s" },
+  { src: "https://domus24.pt/wp-content/uploads/2025/04/id-e1744815726453.png" },  
 ];
 
 const Gallery: React.FC = () => {

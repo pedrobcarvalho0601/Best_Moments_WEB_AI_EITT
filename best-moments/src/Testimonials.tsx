@@ -6,19 +6,19 @@ const testimonials: Testimonial[] = [
     quote: "A viagem a Sintra foi mágica! Senti-me jovem outra vez. A organização foi impecável e fiz novos amigos.",
     name: "Maria Antunes",
     age: 82,
-    avatarUrl: "https://picsum.photos/seed/happy_senior_woman_portrait/100/100"
+    avatarUrl: "https://thumbs.dreamstime.com/b/pessoa-idosa-10393340.jpg"
   },
   {
     quote: "Nunca pensei que ia aprender a pintar com 78 anos. Os workshops da Best Moments são a minha alegria da semana.",
     name: "Joaquim Pereira",
     age: 78,
-    avatarUrl: "https://picsum.photos/seed/happy_senior_man_portrait/100/100"
+    avatarUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmRj-bTWTw353H4oMMZQfjqOqMLo0uNJGJVA&s"
   },
   {
     quote: "Obrigada por todo o carinho e paciência. Cada passeio é uma aventura e sinto-me sempre segura e feliz.",
     name: "Lurdes Gonçalves",
     age: 85,
-    avatarUrl: "https://picsum.photos/seed/kind_elderly_woman_smile/100/100"
+    avatarUrl: "https://img.freepik.com/fotos-premium/uma-idosa-sorrindo_1285898-1055.jpg?semt=ais_hybrid&w=740&q=80"
   }
 ];
 

@@ -18,37 +18,37 @@ const teamMembers: TeamMember[] = [
   {
     name: "Luísa Dias ",
     role: " ",
-    image: "https://picsum.photos/seed/director_woman/300/300",
+    image: "https://seniorconcierge.com.br/wp-content/uploads/2022/12/Viagens-de-fim-de-ano-qual-%C3%A9-o-suporte-ideal-para-o-idoso.jpg",
     description: " "
   },
   {
     name: "Pedro Carvalho",
     role: " ",
-    image: "https://picsum.photos/seed/doctor_man/300/300",
+    image: "https://vascular.pro/wp-content/uploads/2015/02/idoso-trombose-viagem-1024x579.jpg",
     description: " "
   },
   {
     name: "Francisco Santos",
     role: " ",
-    image: "https://picsum.photos/seed/event_manager/300/300",
+    image: "https://img.novocuidar.pt/wp-content/uploads/2021/06/Lar-de-idosos-ou-apoio-em-casa-NovoCuidar.jpg",
     description: " "
   },
   {
     name: "Célio Maquile",
     role: " ",
-    image: "https://picsum.photos/seed/driver_senior/300/300",
+    image: "https://almadaonline.pt/wp-content/uploads/2023/10/idoso.jpg",
     description: " "
   },
   {
     name: "Pedro Antunes",
     role: " ",
-    image: "https://picsum.photos/seed/nurse_young/300/300",
+    image: "https://www.psicologo.com.br/wp-content/uploads/saude-mental-para-idosos.jpg",
     description: "« "
   },
   {
     name: "Anil Pilale",
     role: " ",
-    image: "https://picsum.photos/seed/animator_guy/300/300",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxBXiRsA3fDA3qijln7Ia3zS_6fii4gkLYRQ&s",
     description: " "
   }
 ];
@@ -74,7 +74,7 @@ const AboutUs: React.FC = () => {
         
         <div className="flex flex-col md:flex-row items-center gap-12 mb-20">
           <div className="md:w-1/2">
-            <img src="https://picsum.photos/seed/elderly_friends_laughing/600/400" alt="Grupo de amigos idosos a rir juntos" className="rounded-lg shadow-2xl w-full" />
+            <img src="https://www.interdomicilio.pt/wp-content/uploads/2015/02/Terceira-idade-o-Mundo-do-idoso.jpg" alt="Grupo de amigos idosos a rir juntos" className="rounded-lg shadow-2xl w-full" />
           </div>
           <div className="md:w-1/2 text-lg text-slate-600 space-y-4">
             <p>
