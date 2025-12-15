@@ -18,37 +18,37 @@ const teamMembers: TeamMember[] = [
   {
     name: "Luísa Dias ",
     role: " ",
-    image: "https://seniorconcierge.com.br/wp-content/uploads/2022/12/Viagens-de-fim-de-ano-qual-%C3%A9-o-suporte-ideal-para-o-idoso.jpg",
+    image: " ",
     description: " "
   },
   {
     name: "Pedro Carvalho",
     role: " ",
-    image: "https://vascular.pro/wp-content/uploads/2015/02/idoso-trombose-viagem-1024x579.jpg",
+    image: " ",
     description: " "
   },
   {
     name: "Francisco Santos",
     role: " ",
-    image: "https://img.novocuidar.pt/wp-content/uploads/2021/06/Lar-de-idosos-ou-apoio-em-casa-NovoCuidar.jpg",
+    image: " ",
     description: " "
   },
   {
     name: "Célio Maquile",
     role: " ",
-    image: "https://almadaonline.pt/wp-content/uploads/2023/10/idoso.jpg",
+    image: " ",
     description: " "
   },
   {
     name: "Pedro Antunes",
     role: " ",
-    image: "https://www.psicologo.com.br/wp-content/uploads/saude-mental-para-idosos.jpg",
-    description: "« "
+    image: " ",
+    description: " "
   },
   {
     name: "Anil Pilale",
     role: " ",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxBXiRsA3fDA3qijln7Ia3zS_6fii4gkLYRQ&s",
+    image: " ",
     description: " "
   }
 ];
